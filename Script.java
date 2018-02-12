@@ -7,7 +7,7 @@ function sendSms(to, body) {
   var payload = {
     "To": to, 
     "Body" : body,  
-    "From" : "Twilio Number"
+    "From" : "Twilio Number" // ***************Enter Twilio Number Here****************
   };
 
   var options = {
