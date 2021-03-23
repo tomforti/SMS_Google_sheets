@@ -44,7 +44,7 @@ function lookup(phoneNumber) {
 
 
 //Main part of the code. This is where you will make changes to match your sheet. 
-unction sendAll() {
+function sendAll() {
   var width = 11  //*************How wide is your cell (A-B is 2, A-G is 7 and so on)******************
   var startRow = 4; //**********The row to start on change the 2 if numbers start lower down**********
   var numbers = 4  //*************What Column are cell phone numbers in(A=0, B=1 and so on)******************
